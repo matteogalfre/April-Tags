@@ -53,11 +53,11 @@ def main():
         selection = input("Select option :") 
         
         if selection =='1':
-            cap = cv.VideoCapture('/home/matteo/Desktop/April Tags/video16h5.mp4')
+            cap = cv.VideoCapture('video16h5.mp4')
             families = 'tag16h5'
             break
         elif selection == '2':
-            cap = cv.VideoCapture('/home/matteo/Desktop/April Tags/video36h11.mp4')
+            cap = cv.VideoCapture('video36h11.mp4')
             families = 'tag36h11'
             break
         elif selection == '3':
