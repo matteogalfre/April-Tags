@@ -1,6 +1,6 @@
 # April Tags
 
-##Overview
+## Overview
 
 **AprilTag is a visual fiducial system, useful for a wide variety of tasks including augmented reality, robotics, and camera calibration**  
 
